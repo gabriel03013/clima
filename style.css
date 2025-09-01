@@ -13,7 +13,7 @@
 }
 
 * {
-  font-family: "Petit Cochon", cursive;
+  font-family: "HandMade", cursive;
 }
 
 html, body {
@@ -45,7 +45,7 @@ body {
     > h1 {
       font-size: 200px;
       margin: 0;
-      font-family: "HandMade", cursive;
+      font-family: "Petit Cochon", cursive;
       color: #272665;
     }
 
@@ -69,7 +69,7 @@ body {
     text-align: center;
     color: #272665;
     font-size: 50px;
-    font-family: "HandMade", cursive;
+    font-family: "Petit Cochon", cursive;
   }
 
   > p {
@@ -121,7 +121,7 @@ body {
   h2 {
     font-size: 50px;
     margin-top: 20px;
-    font-family: "HandMade", cursive;
+    font-family: "Petit Cochon", cursive;
   }
 
   > p {
